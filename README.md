@@ -1,6 +1,12 @@
 <div align="center">
+  
+![Yellow and Black Global Response Engineer LinkedIn Banner](https://user-images.githubusercontent.com/50103762/121344697-58c14980-c924-11eb-90bc-9559a77a57ae.jpg)
 
-## 👋 About Me
+  
+[![Visits Badge](https://badges.pufler.dev/visits/StefanSuess/StefanSuess)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/StefanSuess)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/StefanSuess)](https://badges.pufler.dev)
 
 🎓 I am Stefan Suess, a **final year computer science student** from Germany. 👨‍💻 I'm currently interested in **ML**, **AI**, **VR/AR** and **cross-platform development** via **Flutter**. 🗣️ I speak **German** as well as **English** fluently and **French** a bit (and improving), in the near future I want to learn **Mandarin**.
 
@@ -24,21 +30,22 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 
 
-## 📈 Stats
-
+## 📈 Github Stats
+<p>
 <a href="https://github.com/StefanSuess/StefanSuess/edit/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StefanSuess&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&custom_title=Stefan Suess Github Stats" alt="Stefan Suess Github Stats" />
 </a>
 <a href="https://github.com/StefanSuess/StefanSuess/edit/main/README.md">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanSuess&layout=compact&hide_border=false&langs_count=8" alt="Stefan Suess Most Used Languages" />
 </a>
+  </p>
+  <p>
 <a href="https://github.com/StefanSuess/StefanSuess/edit/main/README.md">
   <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=StefanSuess" alt="Stefan Suess Most Used Languages" />
-
+  </p>
 
 ## 🔗 Connect with me
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefansuess/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/StefanSuess)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stefan.m.suess@gmail.com)
   
 </div>

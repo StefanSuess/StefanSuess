@@ -1,6 +1,6 @@
 <div align="center">
   
-![Yellow and Black Global Response Engineer LinkedIn Banner](https://user-images.githubusercontent.com/50103762/121344697-58c14980-c924-11eb-90bc-9559a77a57ae.jpg)
+![Stefan Suess Banner](https://user-images.githubusercontent.com/50103762/121345044-adfd5b00-c924-11eb-977c-904f8ea7c7ae.jpg)
 
   
 [![Visits Badge](https://badges.pufler.dev/visits/StefanSuess/StefanSuess)](https://badges.pufler.dev)

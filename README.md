@@ -2,7 +2,7 @@
     
 [![Visits Badge](https://badges.pufler.dev/visits/StefanSuess/StefanSuess)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/StefanSuess)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/StefanSuess/StefanSuess)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/StefanSuess)](https://badges.pufler.dev)
 
 🎓 I am Stefan Suess, a **final year computer science student** from Germany. 👨‍💻 I'm currently interested in **ML**, **AI**, **VR/AR** and **cross-platform development** via **Flutter**. 🗣️ I speak **German** as well as **English** fluently and **French** a bit (and improving), in the near future I want to learn **Mandarin**.

@@ -31,9 +31,6 @@
 ## 📈 Github Stats
 <p>
 <a href="https://github.com/StefanSuess/StefanSuess/edit/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StefanSuess&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&custom_title=Stefan Suess Github Stats" alt="Stefan Suess Github Stats" />
-</a>
-<a href="https://github.com/StefanSuess/StefanSuess/edit/main/README.md">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanSuess&layout=compact&hide_border=false&langs_count=8" alt="Stefan Suess Most Used Languages" />
 </a>
   </p>
